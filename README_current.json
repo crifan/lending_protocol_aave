@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v1.0.0",
+  "lastUpdate": "20240930",
+  "gitRepoName": "lending_protocol_aave",
+  "bookName": "借贷协议：AAVE",
+  "bookDescription": "整理介绍区块链和加密货币领域中的借贷协议龙头之一：AAVE。先是概述和核心逻辑架构；然后是借贷协议，包括deposit存款、borrow借款、repay偿还、redeem赎回、liquidation清算和借贷利率模型；清算包括健康因子；以及子模块，包括aToken及代币的作用、Governance治理、Safety Module安全模块、Flash Loan闪电贷、稳定币GHO、Credit Delegation信用委托、Debt Tokenization债务代币化；以及利率模型，包括可变利率、稳定利率、两者对比、各种参数；以及三种版本AAVE v1、v2、v3，以及相关的Gas优化、E-Mode、Isolation Mode、Portal、Risk Management的Granular borrowing power control、Price Oracle Sentinel、Siloed Borrowing、权限和角色管理、协议特性、Multiple Rewards and Claim；以及AAVE和其他的对比，比如Compound；再就是开发相关的核心类和代码、V3合约概览、审计报告、漏洞赏金；最后附录加上名字术语、AAVE资料、发展进化历史等。"
+}
